@@ -9,7 +9,7 @@ RESTful API service for ecommerce product management built with Spring Boot, MyS
 * Maven
 * JDK 17
 
-##Features
+## Features
 * Complete CRUD operations for product management
 * Image handling
 * Integrated database schema
